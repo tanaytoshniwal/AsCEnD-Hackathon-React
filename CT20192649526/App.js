@@ -1,8 +1,8 @@
 import React from "react";
 import { Route, Switch, Link } from "react-router-dom";
-import Home from "./components/Home";
-import ViewCustomers from "./components/ViewCustomers";
-import RegisterCustomer from "./components/RegisterCustomer";
+import Home from "./Home";
+import ViewCustomers from "./ViewCustomers";
+import RegisterCustomer from "./RegisterCustomer";
 
 const App = () => {
   return (
